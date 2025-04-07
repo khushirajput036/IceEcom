@@ -1,0 +1,29 @@
+body
+{
+	 background: linear-gradient(90deg, #ffe4ec, #fcd5e5, #ffd9ec);
+}
+
+.custom-navbar
+{
+ box-shadow:0px 6px 12px rgba(219, 50, 100, 0.6);
+ 
+ }
+ .nav-link:hover
+ {
+	color:white !important;
+ }
+ 
+ /*ice cream card style*/
+ 
+  .soft-shadow {
+    box-shadow:rgba(255, 255, 255, 0.05);	
+    transition: all 0.3s ease;
+    border-radius: 20px;
+  }
+
+  .soft-shadow:hover {
+    box-shadow:0 12px 28px rgba(204, 90, 130, 0.45);
+    transform: scale(1.02);
+  }
+  
+  
